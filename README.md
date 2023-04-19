@@ -14,8 +14,8 @@ npm start
 
 ```
 for upload : /upload/
-for stream : /stream/:videoName
-for download : /download/:videoName
+, for stream : /stream/:videoName
+, for download : /download/:videoName
 
 - Version: 1.0.0
 
